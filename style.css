@@ -1,43 +1,27 @@
-/* Style for the navbar */
 .navbar-brand {
     font-weight: bold;
-    font-size: 30px;
-}
-
-#navbar-all {
-    padding: 15px;
+    font-size: 50px;
 }
 
 #home-link {
     color: #DC6052;
 }
 
-#navbarNav {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    font-size: 12px;
-}
-
 .navbar-nav {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    display: flex;
-    justify-content: center;
-    align-items: center; /* Add this line */
   }
   
   .nav-item {
     margin: 0 10px;
   }
-  
-/* Custom styles for Revera theme's carousel */
-  
+    
   .carousel-inner {
     position: relative;
     width: 100%;
     overflow: hidden;
+    height: 100%;
   }
   
   .carousel-item {
